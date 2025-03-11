@@ -37,6 +37,8 @@ public static void logoutPage() {
     seleniumBase.validatePage(logoutPage,"Logout");
     seleniumBase.SeleniumByJavaA(logoutPage);
     seleniumBase.ClickDownPage();
+    System.out.println("Project is completed");
+    System.out.println("Hii am muni");
     
 }
 
